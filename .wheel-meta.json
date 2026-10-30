@@ -1,0 +1,22 @@
+{
+  "wheel_id": 537,
+  "structure": "umbrella",
+  "slug": "fencingcaboolture-150",
+  "project": "fencing-contractors-caboolture-1704af07564ed041019e1f6c1ec7a145",
+  "parent_t1_ref": "fencingcaboolture-006",
+  "node_role": "buffer",
+  "money_target": "fencingcaboolture.com.au",
+  "primary_kw": "fencing contractors caboolture",
+  "intended_url": "http://fencing-contractors-caboolture-1704af07564ed041019e1f6c1ec7a145.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "bea0dd6db5a9e983",
+  "links": [
+    {
+      "target_url": "https://fencing-contractors-caboolture-fencingcaboolture-006-64b1f4.gitlab.io/",
+      "anchor": "Fencing Contractors Caboolture: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
